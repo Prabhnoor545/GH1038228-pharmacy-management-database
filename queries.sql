@@ -1,4 +1,4 @@
--- 1. BASIC SELECT QUERIES
+
 -- View all patients
 SELECT * FROM Patient;
 -- View all doctors
